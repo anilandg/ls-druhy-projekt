@@ -6,7 +6,7 @@ h1 {
     font-size: 64px;
 }
 .kokos{
-    color:hotpink;
+    color:purple;
 }
 .meloun{
     font-style: italic;
@@ -16,4 +16,12 @@ h1 {
 }
 #jahudka strong{
     color:rgb(10, 43, 24);
+}
+.ctverecek{
+    background-color: purple;
+    border: 5px solid white;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    
 }
